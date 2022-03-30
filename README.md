@@ -1,0 +1,2 @@
+# Predicting-quality-of-care-in-the-hospital
+The objective is to assess health care quality and to determine whether the near real-time, automated collection and aggregation of multiple sources of patient feedback can provide a collective judgement that effectively identifies risks to the quality of care, and hence can be used to help prioritise inspections. We randomly selected a large health insurance claims database.
